@@ -8,4 +8,6 @@
 * 精通Python设计模式.pdf  
 * python正则.pdf  
 * 笨办法学python+第二版.pdf  
+* [异步图书].Python程序设计.第3版.pdf  
+* [异步图书].Python核心编程.第3版.pdf  
 ***  
